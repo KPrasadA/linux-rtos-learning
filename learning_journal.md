@@ -9,8 +9,9 @@
 
 ## Day2
 
-# just understod creating file 
-# used echo command to create a file 
-# used tar -czf for compress the file to tar.gz
+
+    # 1.just understod creating file 
+    # 2.used echo command to create a file 
+    # 3.used tar -czf for compress the file to tar.gz
 
     
